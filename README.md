@@ -41,24 +41,23 @@ npm run dev   # gera dist/ e serve em http://localhost:8080
 
 `npm run build` só gera `dist/`.
 
-## Publicar (Cloudflare Pages)
+## Publicar (Cloudflare Workers)
 
-Configuração inicial, uma vez:
+O site é servido como *static assets* de um Worker, configurado em `wrangler.jsonc` (pasta `dist/`). Pedidos a ficheiros estáticos não contam para o limite do plano gratuito.
 
-1. Em [dash.cloudflare.com](https://dash.cloudflare.com), **Workers & Pages → Create → Pages → Connect to Git**, e escolha este repositório.
-2. Definições de build:
-   - Framework preset: **None**
-   - Build command: `npm run build`
-   - Build output directory: `dist`
-   - Variável de ambiente: `NODE_VERSION` = `22`
-3. **Save and Deploy**. O site fica em `https://habitacao-portugal.pages.dev` (ou num nome parecido, se este estiver ocupado).
-4. Opcional: **Custom domains** para usar um domínio próprio.
+Configuração inicial, uma vez, em [dash.cloudflare.com](https://dash.cloudflare.com):
+
+1. **Workers & Pages → Create → Import a repository**, e escolha este repositório.
+2. Project name: `habitacao-portugal` (tem de coincidir com `name` em `wrangler.jsonc`).
+3. Build command: `npm run build`. Deploy command: `npx wrangler deploy`.
+4. **Deploy**. O site fica em `https://habitacao-portugal.<subdomínio>.workers.dev`.
+5. Opcional: **Settings → Domains & Routes** para usar um domínio próprio.
 
 A partir daí:
 
-- cada push ou merge para `main` atualiza o site;
-- cada pull request recebe um link de pré-visualização, comentado no próprio PR;
-- o GitHub Actions corre o build em cada PR e bloqueia o merge de alterações que partam a página, se ativar essa regra em **Settings → Branches**.
+- cada push ou merge para `main` faz build e publica o site;
+- os pushes para outros branches (e PRs) geram uma versão de pré-visualização com URL próprio, sem mexer no site principal;
+- o GitHub Actions corre o build em cada PR; ative **Settings → Branches → Require status checks** para bloquear merges que partam a página.
 
 ## Contribuir
 

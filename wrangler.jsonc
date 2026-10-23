@@ -1,0 +1,10 @@
+{
+  // Site estático servido pelo Cloudflare Workers (static assets).
+  // O build (npm run build) gera dist/; o deploy publica essa pasta.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "habitacao-portugal",
+  "compatibility_date": "2025-10-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}
