@@ -174,7 +174,7 @@ INE, série longa de fogos concluídos desde 1975 (indicador 0011725). O INE des
 
 O colapso pós-2008 não foi só cíclico: destruiu empresas e emprego. O setor perdeu cerca de metade do emprego entre 2003 e 2014, o que ajuda a explicar a escassez atual de mão de obra ([idealista](https://www.idealista.pt/news/node/27295)).
 
-**7. Custos de construção.** O índice de custos de habitação nova subiu 7,2% em junho de 2026, com a mão de obra a +8% ([DN / INE](https://dinheirovivo.dn.pt/economia/custos-de-construo-de-habitao-nova-aumentaram-72-em-junho)). A escassez de trabalhadores qualificados é crónica. Somam-se o custo do solo urbano, prazos de licenciamento longos e imprevisíveis, e IVA a 23% na construção, reduzido para 6% em processos de licenciamento iniciados após setembro de 2025.
+**7. Custos de construção.** O índice de custos de habitação nova subiu 7,2% em junho de 2026, com a mão de obra a +8% ([DN / INE](https://dinheirovivo.dn.pt/economia/custos-de-construo-de-habitao-nova-aumentaram-72-em-junho)). A escassez de trabalhadores qualificados é crónica. Somam-se o custo do solo urbano, prazos de licenciamento longos e imprevisíveis, e IVA a 23% na construção, reduzido para 6% em obras iniciadas a partir de 25 de setembro de 2025, num regime em vigor desde julho de 2026 ([idealista](https://www.idealista.pt/news/imobiliario/habitacao/2026/05/20/75556-pacote-fiscal-da-habitacao-publicado-iva-a-6-arranca-em-julho)).
 
 **8. Mercado de arrendamento pequeno e desconfiado.** Só 22% dos agregados arrendam. Décadas de congelamento de rendas, despejos lentos e mudanças legislativas frequentes deixaram os proprietários avessos a arrendar a longo prazo. Isto empurra oferta para venda, AL ou vazio.
 

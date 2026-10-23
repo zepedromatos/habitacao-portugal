@@ -13,7 +13,7 @@ As prioridades:
 5. **Especulação sem valor acrescentado.** Acabar com a isenção de IMT na compra para revenda quando não há obras, e sobretaxar mais-valias de revendas rápidas sem uso. É uma medida de equidade; a evidência não sugere que baixe os preços.
 6. **Dados (S4).** Um registo de ocupação dos alojamentos e indicadores públicos. Sem eles nenhuma medida pode ser avaliada.
 
-O que se pode esperar: no cenário central, ~220 mil fogos em 2027–2030, dentro de uma necessidade estimada de 140–290 mil. Dois terços vêm da construção privada e um sexto de casas vazias, AL e devolutos. O objetivo realista para 2030 é que os preços deixem de crescer mais depressa do que os rendimentos, não que desçam. O que evitar: tetos gerais de renda e subsídios à procura sem oferta, que a evidência associa a menos casas e preços mais altos para quem ainda não entrou no mercado.
+O que se pode esperar: no cenário central, ~185 mil fogos em 2027–2030, para uma necessidade estimada de 140–290 mil. Cerca de quatro quintos vêm da construção nova, privada e pública, e um quinto de casas vazias, AL e devolutos. O objetivo realista para 2030 é que os preços deixem de crescer mais depressa do que os rendimentos, não que desçam. O que evitar: tetos gerais de renda e subsídios à procura sem oferta, que a evidência associa a menos casas e preços mais altos para quem ainda não entrou no mercado.
 
 ## Princípios de desenho
 
@@ -59,7 +59,7 @@ A lei já existe. Um prédio devoluto há mais de um ano pode pagar o triplo do 
 
 ### E2. Uma saída para quem tem a casa vazia
 
-O imposto só é justo se houver alternativa. Três instrumentos: (a) crédito para obras com garantia pública, reembolsado pelas rendas, para quem arrende a longo prazo (cinco anos ou mais); (b) o Estado como arrendatário que subarrenda, modelo que já existe desde 2023 mas sem escala nem gestão profissional; (c) acelerar as partilhas de heranças indivisas, que têm uma proposta em votação no Parlamento desde julho de 2026.
+O imposto só é justo se houver alternativa. Três instrumentos: (a) crédito para obras com garantia pública, reembolsado pelas rendas, para quem arrende a longo prazo (cinco anos ou mais); (b) o Estado como arrendatário que subarrenda, modelo que já existe desde 2023 mas sem escala nem gestão profissional; (c) acelerar as partilhas de heranças indivisas: a Lei n.º 49/2026, publicada em agosto, dá ao Governo 180 dias para criar um processo de venda que pode ser pedido por um só herdeiro ([DNotícias](https://www.dnoticias.pt/2026/8/18/502716-publicado-decreto-que-da-180-dias-ao-governo-para-aprovar-regime-de-herancas-indivisas/)). O regime tem de sair do papel dentro do prazo.
 
 - **Evidência:** indireta; são respostas às razões de vacância identificadas na Parte I (heranças, custo de obras, desconfiança).
 - **Custo:** garantias (passivo contingente) e bonificação de juros.
@@ -76,7 +76,7 @@ Em 2023 o Governo dizia ter identificado mais de 4 mil imóveis do Estado devolu
 
 ### E4. Alojamento local: converter onde a pressão é maior, sem proibições gerais
 
-As câmaras já podem criar zonas de contenção, e o arrendamento de longa duração com rendas até 2.300 € passou a pagar 10% de IRS. Falta: (a) um registo limpo, com dados de atividade das plataformas; (b) neutralidade fiscal entre AL e arrendamento longo nas zonas de pressão; (c) um incentivo temporário à conversão nas freguesias em contenção.
+As câmaras já podem criar zonas de contenção, e, desde janeiro de 2026, as rendas habitacionais até 2.300 € pagam 10% de IRS, uma taxa prevista até ao fim de 2029 ([Doutor Finanças](https://www.doutorfinancas.pt/vida-e-familia/habitacao/medidas-fiscais-para-a-habitacao-o-que-muda-no-iva-irs-imt-e-arrendamento/)). Falta: (a) um registo limpo, com dados de atividade das plataformas; (b) neutralidade fiscal entre AL e arrendamento longo nas zonas de pressão; (c) um incentivo temporário à conversão nas freguesias em contenção.
 
 - **Evidência:** a suspensão de novos registos em bairros de Lisboa em 2018 reduziu os preços nesses bairros em ~8%; em Barcelona, o Airbnb subiu as rendas 7% nos bairros mais expostos.
 - **Escala:** pequena a nível nacional (~2% do parque), relevante nos centros históricos.
@@ -137,13 +137,13 @@ Aumentar a edificabilidade onde já há transportes e infraestruturas: cerca de 
 
 ### M3. Construir mais depressa e mais barato
 
-Projetos-tipo e acordos-quadro plurianuais para a habitação pública, de modo a dar escala e encomendas previsíveis às empresas; incentivo à construção industrializada e modular. Concursos públicos desertos já puseram em risco parte das casas do PRR ([DN](https://www.dn.pt/economia/concursos-publicos-desertos-colocam-em-risco-execucao-das-26-mil-casas-do-prr-2)), sinal de que preços-base e prazos estão desajustados da capacidade do setor. O IVA a 6% na construção, já em vigor para vendas até ~661 mil € e rendas até 2.300 € ([ECO](https://eco.sapo.pt/2026/05/12/seguro-da-luz-verde-ao-choque-fiscal-para-a-habitacao/)), deve ser avaliado: com oferta rígida e terreno escasso, parte da redução pode ir para o preço do solo e não para o comprador.
+Projetos-tipo e acordos-quadro plurianuais para a habitação pública, de modo a dar escala e encomendas previsíveis às empresas; incentivo à construção industrializada e modular. Concursos públicos desertos já puseram em risco parte das casas do PRR ([DN](https://www.dn.pt/economia/concursos-publicos-desertos-colocam-em-risco-execucao-das-26-mil-casas-do-prr-2)), sinal de que preços-base e prazos estão desajustados da capacidade do setor. O IVA a 6% na construção, em vigor desde julho de 2026 para obras iniciadas a partir de 25 de setembro de 2025, com vendas até ~661 mil € ou arrendamento até 2.300 € durante pelo menos 36 meses ([idealista](https://www.idealista.pt/news/imobiliario/habitacao/2026/05/20/75556-pacote-fiscal-da-habitacao-publicado-iva-a-6-arranca-em-julho)), deve ser avaliado: com oferta rígida e terreno escasso, parte da redução pode ir para o preço do solo e não para o comprador.
 
 - **Lado e quem:** outsiders. Governo, IHRU, setor.
 
 ### M4. Um mercado de arrendamento estável
 
-Três peças: (a) estabilidade legislativa, com um regime que não mude a cada legislatura (o tema de maior acordo entre senhorios e economistas); (b) a fiscalidade já baixou para 10% nas rendas até 2.300 €, mas deve ser mantida por um horizonte longo e anunciado, porque o efeito depende da credibilidade; (c) a transição das rendas antigas com o custo social pago pelo Estado. A proposta do Governo mantém inquilinos com mais de 65 anos fora do NRAU e congela rendas de quem tem menos de 64.400 € de rendimento durante cinco anos; nos dois casos, quem paga a proteção continua a ser o senhorio. A alternativa coerente com o princípio 1 é atualizar a renda e o Estado pagar a diferença aos inquilinos com baixos rendimentos.
+Três peças: (a) estabilidade legislativa, com um regime que não mude a cada legislatura (o tema de maior acordo entre senhorios e economistas); (b) a fiscalidade já baixou para 10% nas rendas até 2.300 €, mas só está garantida até ao fim de 2029; deve ser prolongada com antecedência e por um horizonte longo, porque o efeito depende da credibilidade; (c) a transição das rendas antigas com o custo social pago pelo Estado. A proposta do Governo mantém inquilinos com mais de 65 anos fora do NRAU e congela rendas de quem tem menos de 64.400 € de rendimento durante cinco anos; nos dois casos, quem paga a proteção continua a ser o senhorio. A alternativa coerente com o princípio 1 é atualizar a renda e o Estado pagar a diferença aos inquilinos com baixos rendimentos.
 
 - **Evidência:** forte para os efeitos negativos de controlos de renda prolongados; a evidência sobre a estabilidade legislativa é qualitativa.
 - **Custo:** o subsídio às rendas antigas é limitado e decrescente (~151 mil contratos em 2021, inquilinos de idade avançada).
@@ -151,7 +151,7 @@ Três peças: (a) estabilidade legislativa, com um regime que não mude a cada l
 
 ### M5. Habitação pública depois do PRR
 
-O PRR deu escala pela primeira vez: ~28 mil casas entregues até agosto de 2026 e 40 mil previstas até dezembro ([ECO](https://eco.sapo.pt/2026/08/15/cerca-de-28-000-casas-de-habitacao-publica-entregues-ate-ao-fim-de-agosto-no-ambito-do-prr/)). O Parque Público de Habitação Acessível tem 1,85 mil milhões € para até 12 mil fogos em 2026–2030 ([The Portugal News](https://www.theportugalnews.com/pt/noticias/2026-06-08/portugal-atribui-185-mil-milhoes-de-euros-a-habitacao/1036709)), cerca de 154 mil € por fogo (cálculo próprio). As Estratégias Locais de Habitação identificaram necessidades de ~133 mil fogos. Prioridades: (a) concentrar o investimento novo na AML, AMP e Algarve; (b) privilegiar construção nova e reabilitação de devolutos sobre aquisição de casas já ocupadas ou no mercado, que não aumenta o parque; (c) rendas de custo e população mista, não só os mais pobres, para evitar concentração de pobreza e tornar o parque financeiramente sustentável.
+O PRR deu escala pela primeira vez: ~28 mil casas entregues até agosto de 2026 e 40 mil previstas até dezembro ([ECO](https://eco.sapo.pt/2026/08/15/cerca-de-28-000-casas-de-habitacao-publica-entregues-ate-ao-fim-de-agosto-no-ambito-do-prr/)). O Parque Público de Habitação Acessível tem 1,85 mil milhões € para até 12 mil fogos em 2026–2030 ([The Portugal News](https://www.theportugalnews.com/pt/noticias/2026-06-08/portugal-atribui-185-mil-milhoes-de-euros-a-habitacao/1036709)), cerca de 154 mil € por fogo, sem IVA (cálculo próprio). As Estratégias Locais de Habitação identificaram necessidades de ~133 mil fogos. Prioridades: (a) concentrar o investimento novo na AML, AMP e Algarve; (b) privilegiar construção nova e reabilitação de devolutos sobre aquisição de casas já ocupadas ou no mercado, que não aumenta o parque; (c) rendas de custo e população mista, não só os mais pobres, para evitar concentração de pobreza e tornar o parque financeiramente sustentável.
 
 - **Evidência:** a habitação subsidiada substitui parte da construção privada, menos onde há excesso de procura, como nas áreas metropolitanas portuguesas.
 - **Riscos:** capacidade de execução das câmaras e do IHRU; gestão e manutenção de longo prazo.
@@ -173,9 +173,9 @@ Meta indicativa: passar de ~3% para 8% das residências habituais em 15 anos. Co
 
 O modelo de financiamento decide se é sustentável. Proposta: um fundo rotativo que constrói ou reabilita, arrenda a **rendas de custo** (a renda paga o empréstimo e a manutenção, sem lucro) e reinveste. Financiamento por empréstimos longos (BEI, Banco Português de Fomento), solo público cedido em direito de superfície, e participação de cooperativas e entidades sem fins lucrativos, como as associações de lucro limitado de Viena ou o fundo de garantia (WSW) holandês.
 
-Cálculo próprio, ilustrativo: um fogo de 154 mil € financiado a 3% e 40 anos custa ~555 €/mês de serviço da dívida; com manutenção, ~600–650 €/mês. É uma renda acessível para rendimentos médios em Lisboa (onde o mercado pede ~1.245 € por 70 m²), mas não para os rendimentos mais baixos, que precisam de apoio adicional. Por isso o parque deve ter população mista: as rendas dos agregados de rendimento médio sustentam o sistema.
+Cálculo próprio, ilustrativo: um fogo de 154 mil € (sem IVA) financiado a 3% e 40 anos custa ~555 €/mês de serviço da dívida; com manutenção, ~600–650 €/mês. É uma renda acessível para rendimentos médios em Lisboa (onde o mercado pede ~1.245 € por 70 m²), mas não para os rendimentos mais baixos, que precisam de apoio adicional. Por isso o parque deve ter população mista: as rendas dos agregados de rendimento médio sustentam o sistema.
 
-- **Custo:** ~14 mil fogos por ano a ~154 mil € são ~2,2 mil milhões €/ano de investimento, em grande parte recuperável pelas rendas a 30–40 anos. Conta para a dívida pública, a menos que o veículo fique fora do perímetro orçamental, o que exige receitas próprias de mercado.
+- **Custo:** ~14 mil fogos por ano a ~154 mil € são ~2,1 mil milhões €/ano de investimento, mais IVA, em grande parte recuperável pelas rendas a 30–40 anos. Conta para a dívida pública, a menos que o veículo fique fora do perímetro orçamental, o que exige receitas próprias de mercado.
 - **Riscos:** execução, gestão de longo prazo, captura política na atribuição; crowding-out da construção privada onde a procura não excede a oferta.
 - **Lado e quem:** outsiders. IHRU, câmaras, cooperativas, BEI.
 
@@ -191,7 +191,7 @@ A OCDE recomenda mudar o peso do IMT para o IMI e rever os valores patrimoniais,
 
 O mercado de trabalho de Lisboa e do Porto é metropolitano, mas o solo decide-se em 18 e 17 municípios. Propostas: metas de habitação por município fixadas à escala da área metropolitana, ligadas ao investimento em transportes; e parte das transferências para os municípios ligada a fogos concluídos, para que aceitar construção compense localmente.
 
-- **Evidência:** fraca; os incentivos financeiros a municípios (como o New Homes Bonus britânico) têm efeitos modestos. O argumento é sobretudo de coordenação.
+- **Evidência:** fraca. Há precedentes de incentivos financeiros a municípios por casas concluídas, como o New Homes Bonus britânico, mas a evidência sobre o seu efeito é escassa. O argumento é sobretudo de coordenação.
 - **Lado e quem:** outsiders. Áreas metropolitanas, CCDR, Governo.
 
 ### S4. Dados para governar
@@ -215,7 +215,7 @@ Uma transação sem valor acrescentado é uma revenda em prazo curto (por exempl
 
 ### O que se sabe e o que se pode esperar
 
-- **Não há dados portugueses sobre revendas rápidas.** As empresas fizeram 12,5% das compras em 2025, menos do que em 2019; nada indica que a revenda rápida seja o motor dos preços.
+- **Não há dados portugueses sobre revendas rápidas.** Empresas, Estado e outras instituições fizeram 12,5% das compras em 2025, menos do que os 15,0% de 2019; nada indica que a revenda rápida seja o motor dos preços.
 - **A evidência internacional é clara sobre o efeito e sobre o limite.** Em Hong Kong, o imposto sobre revendas em menos de dois anos reduziu a quota de revendas rápidas de 23% para menos de 1%, mas os preços continuaram a subir e o mercado secundário perdeu liquidez ([Agarwal et al.](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.00370)).
 - **Conclusão:** penalizar a especulação sem valor acrescentado justifica-se por equidade e por alinhamento de incentivos. Não se deve esperar que baixe os preços.
 
@@ -232,7 +232,7 @@ A compra de imóveis para revenda por quem exerce essa atividade está isenta de
 
 ### O que não fazer
 
-- Proibir compras por empresas ou por não residentes: os não residentes fizeram 5% das compras em 2025, e uma proibição atinge também quem reabilita e arrenda. A taxa fixa de 7,5% de IMT para não residentes, aprovada em 2026, tem alcance limitado pela mesma razão.
+- Proibir compras por empresas ou por não residentes: os não residentes fizeram 5% das compras em 2025, e uma proibição atinge também quem reabilita e arrenda. A taxa fixa de 7,5% de IMT para não residentes, aprovada em 2026 (com exceções para quem passe a residir em Portugal ou arrende a renda moderada), tem alcance limitado pela mesma razão.
 - Taxar todas as transações de investidores por igual, o que penaliza a reabilitação tanto como a revenda sem obras.
 
 **Riscos:** menos liquidez e mais tempo de retenção (Hong Kong); manipulação do critério de obras, que se mitiga ligando-o a licenças e faturas eletrónicas. **Lado:** neutro nos preços; melhora a equidade fiscal.
@@ -247,7 +247,7 @@ Estas medidas têm apelo político porque produzem um efeito visível e imediato
 | Subsídios à compra e crédito a 100% | Com oferta rígida, o apoio sobe o preço | Help to Buy em Londres: preço subiu mais do que o apoio, sem mais construção | Dirigir a zonas e segmentos onde a oferta responde, ou ligar à compra de casa nova com preço limitado |
 | Subsídios gerais à renda | Grande parte vai para o senhorio | França: ~78% capturado pelas rendas | Só para baixos rendimentos e, de preferência, ligados ao parque público |
 | Benefícios fiscais a quem compra para investir | Atraem procura sem acrescentar oferta | França: a retirada dos incentivos abrandou os preços sem reduzir a construção ([Chapelle, Vignolles & Wolf 2018](https://ideas.repec.org/a/adr/anecst/y2018i130p101-131.html)) | Apoiar a construção e o arrendamento, não a compra |
-| Arrendamento coercivo de casas vazias | Juridicamente frágil, quase nunca aplicado, danifica a confiança de quem arrenda | Introduzido em 2023 e revogado pelo DL 43/2024 sem uso relevante | Preferir o imposto (E1): mesmo incentivo, sem expropriar o uso |
+| Arrendamento coercivo de casas vazias | Juridicamente frágil, quase nunca aplicado, danifica a confiança de quem arrenda | Introduzido em 2023 e revogado pelo DL 43/2024; não há registo público de casas postas no mercado por esta via | Preferir o imposto (E1): mesmo incentivo, sem expropriar o uso |
 | Proibições gerais de AL ou de compradores estrangeiros | Alcance pequeno, risco jurídico, sinal negativo ao investimento | AL ~2% do parque; não residentes 5% das compras | Zonas de contenção locais e neutralidade fiscal |
 | Reclassificação de solo rústico em grande escala | Dispersão urbana, custos de infraestrutura e transporte | Contestada pelo CNADS e por técnicos (DL 117/2024) | Depois da densificação, junto a transportes, com captação de mais-valias |
 | Mudar as regras a cada legislatura | O risco regulatório entra no preço e afasta senhorios | Histórico português desde 2012 | Regime estável e avaliação aos três anos antes de mudar |
@@ -264,8 +264,8 @@ Cálculo próprio a partir de INE, BdP, IHRU, ECO e The Portugal News · 2027–
 
 ### Premissas por fonte (2027–2030)
 
-- **Construção nova privada:** 27,3 mil fogos novos em 2025 e 41,5 mil licenciados, o que aponta para ~35 mil por ano sem novas medidas. Com M1–M3, 40–45 mil em 2029–2030. Intervalo: 32,5–42,5 mil por ano.
-- **Habitação pública:** as 40 mil casas previstas até dezembro de 2026 ficam fora do período. Em 2027–2030 contam-se até 12 mil fogos do Parque Público de Habitação Acessível e a continuação do 1.º Direito. Parte serão aquisições de casas existentes, que não aumentam o parque; o contributo líquido é menor do que o número entregue.
+- **Construção nova (privada e pública):** 27,3 mil fogos novos em 2025 e 41,5 mil licenciados, o que aponta para ~35 mil por ano sem novas medidas. Com M1–M3, 40–45 mil em 2029–2030. Intervalo: 32,5–42,5 mil por ano. A série do INE conta toda a construção, incluindo a pública.
+- **Habitação pública:** as 40 mil casas previstas até dezembro de 2026 ficam fora do período. Em 2027–2030 contam-se até 12 mil fogos do Parque Público de Habitação Acessível e a continuação do 1.º Direito. Parte serão aquisições de casas existentes, que não aumentam o parque, e a construção pública já está incluída na linha anterior. Por isso esta linha mostra quanto da construção depende do Estado e não entra no total.
 - **Casas vazias mobilizadas:** 4% a 16% das ~250 mil casas habitáveis fora do mercado em 2021. O imposto francês reduziu a vacância em 13% em quatro anos; o cenário central (10%) pressupõe imposto aplicado e saída fácil (E1 e E2).
 - **Alojamento local convertido:** Lisboa tinha ~17 mil apartamentos em AL antes de cancelar ~7 mil registos inativos; o Porto ~10,8 mil registos. Converter 3–15 mil em todo o país exige incentivo e zonas de contenção.
 - **Devolutos do Estado:** 1–6 mil fogos, limitados pela conversão de edifícios não residenciais e pela capacidade de execução.
@@ -273,7 +273,7 @@ Cálculo próprio a partir de INE, BdP, IHRU, ECO e The Portugal News · 2027–
 
 ### Leitura
 
-O cenário central cobre a necessidade baixa, mas não a alta. Casas vazias, AL e devolutos valem cerca de um sexto do total: importam porque chegam primeiro e estão nas cidades, não porque substituam a construção. Há ainda um problema de localização que o total esconde: em 2025 o Norte concentrou 45% dos fogos licenciados e a Grande Lisboa apenas 12% dos concluídos no 4.º trimestre. Sem M1 e M2 a funcionar na AML, o total nacional pode ser atingido sem resolver o problema onde ele é maior.
+O cenário central cobre a necessidade baixa, mas não a alta; mesmo o cenário alto fica abaixo da necessidade alta, o que reforça a importância de M1 e M2. Casas vazias, AL e devolutos valem cerca de um quinto do total: importam porque chegam primeiro e estão nas cidades, não porque substituam a construção. Há ainda um problema de localização que o total esconde: em 2025 o Norte concentrou 45% dos fogos licenciados e a Grande Lisboa apenas 12% dos concluídos no 4.º trimestre. Sem M1 e M2 a funcionar na AML, o total nacional pode ser atingido sem resolver o problema onde ele é maior.
 
 O que se pode esperar nos preços: se a oferta exceder a formação de agregados em 20–40 mil fogos por ano durante vários anos, o crescimento dos preços deve aproximar-se do dos rendimentos. Uma descida nominal generalizada não é o cenário provável nem o objetivo; o objetivo realista para 2030 é que a relação entre preços e rendimentos deixe de piorar.
 
@@ -303,7 +303,7 @@ Nenhuma medida é rápida e de grande impacto ao mesmo tempo. Daqui resulta a or
 | E6 Rede para despejos | Montante do fundo ainda por definir pelo Governo | Condição para acelerar despejos |
 | M1, M2 Licenciamento e solo | Baixo | Exige técnicos nas câmaras |
 | M5 Parque Público de Habitação Acessível | 1,85 mil milhões € em 2026–2030 | Já orçamentado |
-| S1 Parque público com escala | ~2,2 mil milhões €/ano de investimento | Recuperável por rendas de custo a 30–40 anos; cálculo próprio |
+| S1 Parque público com escala | ~2,1 mil milhões €/ano de investimento, mais IVA | Recuperável por rendas de custo a 30–40 anos; cálculo próprio |
 | S2 IMT para IMI | Neutro por desenho | Transferências de transição para as câmaras |
 | S4 Dados | Baixo | Condição para avaliar tudo o resto |
 | Especulação | Receita pequena | O objetivo é equidade, não receita |
@@ -316,7 +316,7 @@ O grosso do custo é o parque público. Tudo o resto é barato ou gera receita; 
 2. **Captura pelos preços.** Reduzir impostos ou dar garantias com oferta rígida pode subir preços. Mitigação: acompanhar o preço da casa nova face ao custo de construir e rever as medidas que não passam ao comprador.
 3. **Instabilidade política.** O arrendamento coercivo durou um ano; o regime do arrendamento está na quinta revisão desde 2012. Mitigação: acordo parlamentar alargado para as medidas estruturais (S1, S2, M4) e avaliação independente antes de qualquer reversão.
 4. **Jurídico.** O IMI agravado já foi considerado desproporcionado num caso arbitral. Mitigação: taxas defensáveis, isenções claras, direito de prova.
-5. **Ciclo e juros.** A Euribor voltou a subir em 2026 (de 2,1% para 2,9%). Um abrandamento do crédito ou do setor cortaria a fonte que vale dois terços do plano. Mitigação: o parque público como construtor anticíclico.
+5. **Ciclo e juros.** A Euribor voltou a subir em 2026 (de 2,1% para 2,9%). Um abrandamento do crédito ou do setor cortaria a fonte que vale quatro quintos do plano. Mitigação: o parque público como construtor anticíclico.
 6. **Procura incerta.** A imigração abrandou em 2025 mas pode voltar a acelerar. Por isso o plano usa intervalos e deve ser revisto todos os anos.
 7. **Resistência de insiders.** A reforma do IMT para o IMI e a transição das rendas antigas impõem custos visíveis a uma maioria protegida. Mitigação: transição lenta, diferimento para idosos, custo social pago pelo Estado.
 
