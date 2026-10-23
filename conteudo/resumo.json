@@ -1,0 +1,348 @@
+{
+  "_nota": "Conteúdo da parte visual no topo da página. Os números vêm do relatório (conteudo/*.md); se mudar um número lá, mude-o aqui também.",
+  "tese": [
+    {
+      "titulo": "A procura cresceu depressa",
+      "texto": "Mais 825 mil residentes entre 2021 e 2025, quase todos por imigração, e agregados cada vez mais pequenos."
+    },
+    {
+      "titulo": "A oferta parou uma década",
+      "texto": "De 130 mil casas concluídas em 2002 para 9,6 mil em 2015. Em 2025 foram cerca de 30 mil."
+    },
+    {
+      "titulo": "O custo recai sobre quem entra",
+      "texto": "Quem já tem casa está protegido. Jovens, recém-chegados e quem precisa de mudar pagam o preço de hoje."
+    }
+  ],
+  "graficos": [
+    {
+      "id": "precos",
+      "rotulo": "Preços vs salários",
+      "grafico": "precos-vs-salarios"
+    },
+    {
+      "id": "construcao",
+      "rotulo": "Construção",
+      "grafico": "fogos-concluidos"
+    },
+    {
+      "id": "rendas",
+      "rotulo": "Rendas",
+      "grafico": "renda-vs-salarios-euros"
+    },
+    {
+      "id": "mapa",
+      "rotulo": "Mapa",
+      "grafico": "mapas-precos-concelho"
+    }
+  ],
+  "causas": [
+    {
+      "fator": "Défice de construção",
+      "peso": 5,
+      "pesoTexto": "Muito alto",
+      "onde": "AML, AMP, Algarve",
+      "confianca": "Alta",
+      "texto": "130 mil casas concluídas em 2002, 9,6 mil em 2015, cerca de 30 mil em 2025. Constrói-se menos onde a pressão é maior."
+    },
+    {
+      "fator": "Imigração",
+      "peso": 4,
+      "pesoTexto": "Alto",
+      "onde": "Arrendamento, periferias",
+      "confianca": "Alta",
+      "texto": "A população cresceu 825 mil pessoas entre 2021 e 2025. O crescimento abrandou muito em 2025."
+    },
+    {
+      "fator": "Custos de construção e licenciamento",
+      "peso": 3.5,
+      "pesoTexto": "Médio–alto",
+      "onde": "Construção nova",
+      "confianca": "Média",
+      "texto": "Mão de obra 8% mais cara num ano, 80–90 mil postos por preencher e prazos de licenciamento imprevisíveis."
+    },
+    {
+      "fator": "Agregados mais pequenos",
+      "peso": 3,
+      "pesoTexto": "Médio, persistente",
+      "onde": "Todo o país",
+      "confianca": "Alta",
+      "texto": "Mais de 1 milhão de pessoas vivia sozinha em 2021. São precisas mais casas mesmo sem crescer a população."
+    },
+    {
+      "fator": "Arrendamento disfuncional",
+      "peso": 3,
+      "pesoTexto": "Médio",
+      "onde": "Cidades",
+      "confianca": "Média",
+      "texto": "Só 22% das famílias arrendam. Rendas congeladas durante décadas, despejos lentos e leis instáveis afastaram senhorios."
+    },
+    {
+      "fator": "Ordenamento do território",
+      "peso": 3,
+      "pesoTexto": "Médio, difícil de medir",
+      "onde": "Áreas metropolitanas",
+      "confianca": "Baixa",
+      "texto": "A lei dos solos de 2014 reduziu as áreas de expansão dos PDM. Faltam dados sobre os prazos de licenciamento."
+    },
+    {
+      "fator": "Juros baixos 2015–2021",
+      "peso": 3,
+      "pesoTexto": "Médio (amplificador)",
+      "onde": "Compra",
+      "confianca": "Média",
+      "texto": "Ampliaram a procura até 2021. Quando a taxa do crédito quintuplicou, os preços continuaram a subir."
+    },
+    {
+      "fator": "Compradores estrangeiros",
+      "peso": 3,
+      "pesoTexto": "Médio, em segmentos",
+      "onde": "Luxo, litoral",
+      "confianca": "Média",
+      "texto": "28% das compras, quota estável desde 2019; só 5% têm domicílio fiscal fora de Portugal."
+    },
+    {
+      "fator": "Fiscalidade",
+      "peso": 2,
+      "pesoTexto": "Baixo–médio",
+      "onde": "Cidades",
+      "confianca": "Média",
+      "texto": "O IMT torna caro mudar de casa; o IMI baixo torna barato mantê-la vazia ou subocupada."
+    },
+    {
+      "fator": "Turismo e alojamento local",
+      "peso": 2,
+      "pesoTexto": "Baixo no país, alto local",
+      "onde": "Centros históricos",
+      "confianca": "Média",
+      "texto": "Cerca de 2% do parque a nível nacional, concentrado onde a procura é mais intensa."
+    },
+    {
+      "fator": "Salários e produtividade baixos",
+      "peso": 0,
+      "pesoTexto": "Não causa; amplifica",
+      "onde": "Todo o país",
+      "confianca": "Alta",
+      "texto": "O salário médio é ~62% do da UE. Não explica a subida, mas faz a mesma subida pesar mais."
+    }
+  ],
+  "protegidos": [
+    {
+      "n": "70%",
+      "texto": "das famílias são donas da casa onde vivem"
+    },
+    {
+      "n": "62%",
+      "texto": "destas já não têm crédito à habitação"
+    },
+    {
+      "n": "428 €",
+      "texto": "prestação média dos créditos em curso, contra ~830 € numa compra mediana hoje"
+    },
+    {
+      "n": "2,24%",
+      "texto": "aumento máximo das rendas em contratos já existentes em 2026; nos novos contratos, ~9–10%"
+    }
+  ],
+  "expostos": [
+    {
+      "n": "40%",
+      "texto": "dos 25–34 anos são proprietários nas gerações recentes, contra 70% na geração de 1967–76"
+    },
+    {
+      "n": "28,9 anos",
+      "texto": "idade média de saída de casa dos pais (UE: 26,2)"
+    },
+    {
+      "n": "3 em 10",
+      "texto": "inquilinos gastam mais de 40% do rendimento em renda"
+    },
+    {
+      "n": "1.245 €",
+      "texto": "renda mediana de 70 m² em Lisboa, acima do salário mediano bruto (1.191 €)"
+    }
+  ],
+  "vazios": [
+    {
+      "n": 723215,
+      "rotulo": "Alojamentos vagos",
+      "texto": "12,1% do parque nos Censos 2021"
+    },
+    {
+      "n": 375118,
+      "rotulo": "Fora do mercado",
+      "texto": "Vagos por outros motivos que não venda ou arrendamento: heranças, obras, inércia"
+    },
+    {
+      "n": 248534,
+      "rotulo": "Em bom estado",
+      "texto": "O núcleo mobilizável: habitáveis e fora do mercado"
+    },
+    {
+      "n": 25000,
+      "rotulo": "Meta até 2030",
+      "texto": "Cenário central do plano (10–40 mil) com imposto aplicado e saída para os donos",
+      "meta": true
+    }
+  ],
+  "medidas": [
+    {
+      "codigo": "E1",
+      "horizonte": "emergencia",
+      "impacto": "medio",
+      "prioridade": true,
+      "titulo": "Imposto sobre casas vazias aplicado",
+      "texto": "A AT identifica casas vazias com dados de consumos e contratos e aplica o IMI agravado que já existe na lei."
+    },
+    {
+      "codigo": "E2",
+      "horizonte": "emergencia",
+      "impacto": "medio",
+      "prioridade": true,
+      "titulo": "Saída para quem tem a casa vazia",
+      "texto": "Crédito para obras com garantia pública, o Estado como arrendatário e partilhas de heranças mais rápidas."
+    },
+    {
+      "codigo": "E3",
+      "horizonte": "emergencia",
+      "impacto": "baixo",
+      "titulo": "Devolutos do Estado",
+      "texto": "Inventário público e um destino em 12 meses para cada imóvel: reabilitar, ceder ou concessionar."
+    },
+    {
+      "codigo": "E4",
+      "horizonte": "emergencia",
+      "impacto": "baixo",
+      "titulo": "Converter alojamento local",
+      "texto": "Incentivo ao arrendamento longo nas zonas de pressão, sem proibições gerais."
+    },
+    {
+      "codigo": "E5",
+      "horizonte": "emergencia",
+      "impacto": "medio",
+      "titulo": "Garantia pública de renda",
+      "texto": "O Estado garante as rendas a quem não tem fiador, como a Visale francesa."
+    },
+    {
+      "codigo": "E6",
+      "horizonte": "emergencia",
+      "impacto": "baixo",
+      "titulo": "Despejos rápidos com rede social",
+      "texto": "Prazos curtos e previsíveis, com alojamento de emergência pago pelo Estado e não pelo senhorio."
+    },
+    {
+      "codigo": "E7",
+      "horizonte": "emergencia",
+      "impacto": "baixo",
+      "titulo": "Casas para os deslocados do Estado",
+      "texto": "Professores, médicos e polícias deslocados em residências públicas a renda de custo."
+    },
+    {
+      "codigo": "E8",
+      "horizonte": "emergencia",
+      "impacto": "alto",
+      "titulo": "Mão de obra para a construção",
+      "texto": "Vistos rápidos, reconhecimento de qualificações e formação para os 80–90 mil postos em falta."
+    },
+    {
+      "codigo": "M1",
+      "horizonte": "medio",
+      "impacto": "alto",
+      "prioridade": true,
+      "titulo": "Licenciamento previsível",
+      "texto": "Prazos vinculativos e publicados por município, e um regulamento nacional de edificação."
+    },
+    {
+      "codigo": "M2",
+      "horizonte": "medio",
+      "impacto": "alto",
+      "prioridade": true,
+      "titulo": "Mais casas junto aos transportes",
+      "texto": "Mais edificabilidade perto do metro e do comboio da AML e AMP, com parte da mais-valia para infraestruturas."
+    },
+    {
+      "codigo": "M3",
+      "horizonte": "medio",
+      "impacto": "alto",
+      "titulo": "Construir mais depressa e mais barato",
+      "texto": "Projetos-tipo, acordos-quadro plurianuais e construção industrializada."
+    },
+    {
+      "codigo": "M4",
+      "horizonte": "medio",
+      "impacto": "medio",
+      "titulo": "Arrendamento estável",
+      "texto": "Regras que não mudam a cada legislatura, IRS a 10% prolongado e rendas antigas com o custo pago pelo Estado."
+    },
+    {
+      "codigo": "M5",
+      "horizonte": "medio",
+      "impacto": "medio",
+      "titulo": "Habitação pública depois do PRR",
+      "texto": "Investimento novo concentrado na AML, AMP e Algarve, com rendas de custo e população mista."
+    },
+    {
+      "codigo": "M6",
+      "horizonte": "medio",
+      "impacto": "baixo",
+      "titulo": "Apoios à procura só dirigidos",
+      "texto": "Apoios à renda só para baixos rendimentos; avaliar a garantia para jovens antes de a alargar."
+    },
+    {
+      "codigo": "S1",
+      "horizonte": "estrutural",
+      "impacto": "alto",
+      "prioridade": true,
+      "titulo": "Parque público com escala",
+      "texto": "De 3% para 8% das residências em 15 anos, com um fundo que se paga com rendas de custo."
+    },
+    {
+      "codigo": "S2",
+      "horizonte": "estrutural",
+      "impacto": "alto",
+      "titulo": "Tributar a posse, não a compra",
+      "texto": "Menos IMT e mais IMI, com valores patrimoniais atualizados e diferimento para idosos."
+    },
+    {
+      "codigo": "S3",
+      "horizonte": "estrutural",
+      "impacto": "medio",
+      "titulo": "Planeamento metropolitano",
+      "texto": "Metas de habitação e transportes decididas à escala da AML e AMP."
+    },
+    {
+      "codigo": "S4",
+      "horizonte": "estrutural",
+      "impacto": "base",
+      "titulo": "Dados para governar",
+      "texto": "Registo anual de ocupação dos alojamentos e indicadores públicos. Sem eles nada se avalia."
+    },
+    {
+      "codigo": "X",
+      "rotulo": "Especulação",
+      "horizonte": "emergencia",
+      "impacto": "baixo",
+      "ancora": "especulacao-o-que-penalizar-e-como",
+      "titulo": "Penalizar a revenda sem valor",
+      "texto": "Isenção de IMT na revenda só com obras; sobretaxa sobre revendas rápidas sem uso. Equidade, não preços."
+    }
+  ],
+  "evitar": [
+    {
+      "titulo": "Tetos gerais de renda",
+      "texto": "Em São Francisco, a oferta para arrendar caiu 15% e as rendas da cidade subiram 5,1%."
+    },
+    {
+      "titulo": "Subsídios à compra sem mais oferta",
+      "texto": "Em Londres, o Help to Buy subiu os preços mais do que o próprio apoio."
+    },
+    {
+      "titulo": "Subsídios gerais à renda",
+      "texto": "Em França, cerca de 78% do apoio acabou nas rendas."
+    },
+    {
+      "titulo": "Arrendamento coercivo",
+      "texto": "Criado em 2023, revogado em 2024. Um imposto sobre vazios dá o mesmo incentivo sem expropriar o uso."
+    }
+  ]
+}

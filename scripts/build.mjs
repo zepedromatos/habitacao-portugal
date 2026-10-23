@@ -5,6 +5,7 @@ import { execSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { Marked } from 'marked';
 import * as esbuild from 'esbuild';
+import { renderOverview, NAV } from './overview.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = path.join(ROOT, 'dist');
@@ -70,6 +71,14 @@ body = body.replace(/<h1 id="([^"]+)">Parte (I+) — (.*?)<\/h1>/g,
 const fi = body.indexOf('<h2 id="fontes">');
 if (fi >= 0) body = body.slice(0, fi) + '<section class="sources">' + body.slice(fi) + '</section>';
 
+// parte visual (topo)
+const anchors = {};
+for (const m of body.matchAll(/<h3 id="([^"]+)"><span class="code">([EMS]\d)<\/span>/g)) anchors[m[2]] = m[1];
+const captions = Object.fromEntries(figures.map((f) => [f.name, inline.parseInline(f.caption)]));
+const resumo = JSON.parse(fs.readFileSync(path.join(ROOT, 'conteudo', 'resumo.json'), 'utf8'));
+const overview = renderOverview(resumo, { anchors, captions });
+const navHtml = NAV.map(([id, l]) => `<a href="#${id}">${l}</a>`).join('');
+
 // data da última alteração (último commit, ou hoje)
 let updated;
 try { updated = execSync('git log -1 --format=%cs', { cwd: ROOT, stdio: ['ignore', 'pipe', 'ignore'] }).toString().trim(); } catch {}
@@ -127,10 +136,11 @@ await esbuild.build({
 
 const tpl = fs.readFileSync(path.join(ROOT, 'src', 'template.html'), 'utf8');
 const html = tpl.replace('{{TOC}}', tocHtml).replace('{{BODY}}', body)
+  .replace('{{OVERVIEW}}', overview).replace('{{NAV}}', navHtml)
   .replaceAll('{{UPDATED}}', updatedPt).replaceAll('{{UPDATED_ISO}}', updated).replaceAll('{{REPO}}', REPO);
 fs.writeFileSync(path.join(DIST, 'index.html'), html);
 for (const f of ['favicon.svg']) {
   const p = path.join(ROOT, 'src', f);
   if (fs.existsSync(p)) fs.copyFileSync(p, path.join(DIST, f));
 }
-console.log(`dist/index.html (${(html.length / 1024).toFixed(0)} KB), ${figures.length} gráficos, atualizado ${updated}`);
+console.log(`dist/index.html (${(html.length / 1024).toFixed(0)} KB), ${figures.length} gráficos no relatório, ${resumo.medidas.length} medidas no resumo, atualizado ${updated}`);

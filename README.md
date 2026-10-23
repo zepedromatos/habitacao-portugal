@@ -7,6 +7,7 @@ Diagnóstico com dados da crise da habitação em Portugal e um plano de medidas
 | Pasta | Conteúdo |
 |---|---|
 | `conteudo/` | O texto, em Markdown, por partes: `01-diagnostico.md`, `02-solucoes.md`, `03-fontes.md`. Os ficheiros são lidos por ordem alfabética. |
+| `conteudo/resumo.json` | A parte visual no topo da página: tese, separadores de gráficos, causas, protegidos e expostos, funil das casas vazias, medidas e o que evitar. Os números vêm do relatório; se mudar um lá, mude-o aqui. |
 | `graficos/` | Um ficheiro `.jsx` por gráfico. Cada um contém os seus dados e o código que desenha o SVG. |
 | `dados/` | Dados grandes partilhados entre gráficos (`concelhos.csv`: preço, variação, vacância e contorno de cada concelho). |
 | `src/` | Modelo da página (`template.html`, com o CSS), arranque dos gráficos e índice. |
