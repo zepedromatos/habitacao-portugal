@@ -6,5 +6,7 @@
   "compatibility_date": "2025-10-01",
   "assets": {
     "directory": "./dist"
-  }
+  },
+  // Necessário para `wrangler preview` (pré-visualizações dos branches e PRs).
+  "previews": {}
 }

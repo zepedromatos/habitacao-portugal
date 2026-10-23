@@ -56,7 +56,7 @@ Configuração inicial, uma vez, em [dash.cloudflare.com](https://dash.cloudflar
 A partir daí:
 
 - cada push ou merge para `main` faz build e publica o site;
-- os pushes para outros branches (e PRs) geram uma versão de pré-visualização com URL próprio, sem mexer no site principal;
+- os pushes para outros branches (e PRs) geram uma pré-visualização em `https://<branch>-habitacao-portugal.<subdomínio>.workers.dev`, sem mexer no site principal (exige o bloco `previews` em `wrangler.jsonc`);
 - o GitHub Actions corre o build em cada PR; ative **Settings → Branches → Require status checks** para bloquear merges que partam a página.
 
 ## Contribuir

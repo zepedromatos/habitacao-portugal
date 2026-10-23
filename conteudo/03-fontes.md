@@ -113,3 +113,7 @@
 - [Falta de mão de obra na construção, AICCOPN (idealista)](https://www.idealista.pt/news/node/76947)
 - [Concursos desertos e casas do PRR (DN)](https://www.dn.pt/economia/concursos-publicos-desertos-colocam-em-risco-execucao-das-26-mil-casas-do-prr-2)
 - [Parque Público de Habitação Acessível, 2026–2030 (The Portugal News)](https://www.theportugalnews.com/pt/noticias/2026-06-08/portugal-atribui-185-mil-milhoes-de-euros-a-habitacao/1036709)
+- [Decreto-Lei 97/2026: IVA a 6%, IRS a 10% e regras de arrendamento (idealista)](https://www.idealista.pt/news/imobiliario/habitacao/2026/05/20/75556-pacote-fiscal-da-habitacao-publicado-iva-a-6-arranca-em-julho)
+- [Decreto-Lei 97/2026: IRS, IMT de não residentes e datas (Doutor Finanças)](https://www.doutorfinancas.pt/vida-e-familia/habitacao/medidas-fiscais-para-a-habitacao-o-que-muda-no-iva-irs-imt-e-arrendamento/)
+- [Lei 49/2026: heranças indivisas (DNotícias)](https://www.dnoticias.pt/2026/8/18/502716-publicado-decreto-que-da-180-dias-ao-governo-para-aprovar-regime-de-herancas-indivisas/)
+- [Simplex Urbanístico, DL 10/2024 (PwC)](https://www.pwc.pt/pt/servicos/legal/legal-flash/reforma-licenciamentos-ambito-do-urbanismo-ordenamento-territorio-industria.html)
