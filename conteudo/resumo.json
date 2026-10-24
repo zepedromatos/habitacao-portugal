@@ -289,6 +289,13 @@
       "texto": "Apoios à renda só para baixos rendimentos; avaliar a garantia para jovens antes de a alargar."
     },
     {
+      "codigo": "M7",
+      "horizonte": "medio",
+      "impacto": "alto",
+      "titulo": "Casas a preço acessível, não só de luxo",
+      "texto": "Terreno público a preço fixo em concurso, incentivos indexados ao preço de cada concelho e bónus de densidade voluntário em troca de fogos a preço limitado."
+    },
+    {
       "codigo": "S1",
       "horizonte": "estrutural",
       "impacto": "alto",

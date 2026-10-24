@@ -117,3 +117,6 @@
 - [Decreto-Lei 97/2026: IRS, IMT de não residentes e datas (Doutor Finanças)](https://www.doutorfinancas.pt/vida-e-familia/habitacao/medidas-fiscais-para-a-habitacao-o-que-muda-no-iva-irs-imt-e-arrendamento/)
 - [Lei 49/2026: heranças indivisas (DNotícias)](https://www.dnoticias.pt/2026/8/18/502716-publicado-decreto-que-da-180-dias-ao-governo-para-aprovar-regime-de-herancas-indivisas/)
 - [Simplex Urbanístico, DL 10/2024 (PwC)](https://www.pwc.pt/pt/servicos/legal/legal-flash/reforma-licenciamentos-ambito-do-urbanismo-ordenamento-territorio-industria.html)
+- [Contratos de Investimento para Arrendamento, DL 97/2026 (idealista)](https://www.idealista.pt/news/node/75800)
+- [Viena — concursos de promotores (socialhousing.wien)](https://socialhousing.wien/tools/developers-competitions)
+- [Bento, Lowe, Knaap & Chakraborty 2009 — quotas de habitação acessível na Califórnia (Cityscape)](https://www.huduser.gov/periodicals/cityscpe/vol11num2/ch1.pdf)
