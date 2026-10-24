@@ -163,6 +163,27 @@ Manter apoios à renda apenas para baixos rendimentos e, sempre que possível, l
 
 - **Lado e quem:** depende do desenho. Governo, Banco de Portugal.
 
+### M7. Construção a preços acessíveis
+
+Nas zonas de pressão, terreno caro, prazos longos e custos fixos por fogo fazem da casa de gama alta o produto que dá margem ao promotor. Em Lisboa, a habitação nova custou 5.890 €/m² em 2025, contra 4.725 €/m² na usada. É uma escolha racional, e não inútil: casas novas caras libertam casas mais baratas pela cadeia de mudanças. Mas o efeito é lento e não chega a quem precisa agora. Portugal não publica a produção nova por segmento de preço, por isso a dimensão do problema não está medida.
+
+Os incentivos atuais não corrigem isto. O IVA a 6%, o IRS a 10% e os Contratos de Investimento para Arrendamento ([idealista](https://www.idealista.pt/news/node/75800)) usam o mesmo limiar de renda "moderada", 2.300 €/mês, e o IVA reduzido aplica-se a vendas até ~661 mil €. Em Lisboa, a renda mediana de 70 m² é ~1.245 € e o salário mediano bruto 1.191 €. O benefício é igual para uma casa de 300 mil € e para uma de 650 mil €.
+
+Seis instrumentos, por ordem de impacto provável:
+
+1. **Terreno público a preço fixo, com concurso por qualidade e renda.** Ataca a causa: o custo do terreno. Em Viena, o terreno destinado a habitação apoiada é atribuído por concurso a um preço fixado antes; um júri escolhe o projeto pela qualidade, ecologia e custo, e o vencedor compromete-se com custos de construção e rendas estáveis ([socialhousing.wien](https://socialhousing.wien/tools/developers-competitions)). Concorrem promotores privados, cooperativas e entidades sem fins lucrativos. Em Portugal, faz-se com direito de superfície sobre solo do Estado, das autarquias e da Estamo: o Estado põe o terreno, o privado constrói e tem a sua margem.
+2. **Incentivos escalonados pelo preço local.** O IVA reduzido, as isenções de IMT e IMI e os Contratos de Investimento para Arrendamento passam a ser indexados à renda ou ao preço mediano de cada concelho: benefício máximo abaixo de, por exemplo, 80% da mediana local, benefício parcial até 100–120% e nenhum acima. O antigo Programa de Arrendamento Acessível já usava limites por concelho e tipologia.
+3. **Bónus de densidade voluntário.** Mais área de construção em troca de uma parte dos fogos a preço ou renda limitados durante 20–30 anos. Como é opcional, só o usa quem ganha com a troca, e o custo social não é imposto ao promotor.
+4. **Menos custos fixos por fogo.** Rever áreas mínimas e exigências de estacionamento, permitir mais fogos por lote e usar projetos-tipo pré-aprovados, para que casas mais pequenas e simples voltem a ser viáveis. Os prazos de licenciamento (M1) contam aqui: só margens altas suportam anos de risco.
+5. **Menos risco no segmento médio.** Compromissos públicos de compra ou arrendamento em planta, a preço baseado no custo, como as câmaras já fizeram no 1.º Direito, e financiamento barato (BEI, Banco Português de Fomento) para cooperativas e promotores que aceitem tetos de preço.
+6. **Reter terreno passa a custar.** O IMI sobre terrenos para construção em zonas de pressão já é 10 vezes a taxa normal; aplicá-lo de facto põe mais terreno no mercado e baixa o seu preço.
+
+- **Evidência:** Viena é descritiva, não causal. Na Califórnia, quotas obrigatórias de habitação acessível subiram em média 2,2% o preço das casas novas e não alteraram o número de casas construídas; os autores notam que programas voluntários e com incentivos tendem a ter pouco efeito adverso ([Bento et al. 2009](https://www.huduser.gov/periodicals/cityscpe/vol11num2/ch1.pdf)). Em Auckland, mais edificabilidade multiplicou por dez as licenças de tipologias mais baratas.
+- **Custo:** o terreno público cedido tem um custo de oportunidade (a receita de o vender a preço de mercado). Escalonar os incentivos pode manter ou reduzir a despesa fiscal.
+- **Riscos:** concursos lentos ou capturados; quem compra a preço limitado ganha a diferença se puder revender a preço de mercado, o que se evita com direito de superfície e preços de revenda indexados; um bónus de densidade pequeno não tem adesão.
+- **A evitar:** quotas obrigatórias sem contrapartida e tetos ao preço de venda de construção nova, que funcionam como um imposto sobre construir. A exceção são as contrapartidas ligadas a reclassificação ou a mais edificabilidade, como no DL 117/2024.
+- **Lado e quem:** outsiders. Governo (fiscalidade), câmaras (PDM e solo), Estamo, IHRU, Banco Português de Fomento.
+
 ## Estrutural (5–15 anos)
 
 As medidas estruturais mudam o sistema que produziu a crise: um parque quase todo privado e sem amortecedor público, uma fiscalidade que penaliza mudar de casa e premeia mantê-la parada, e decisões de solo tomadas município a município sem dados.
@@ -280,13 +301,13 @@ O que se pode esperar nos preços: se a oferta exceder a formação de agregados
 ## Matriz de prioridades
 
 ::: grafico matriz
-Matriz impacto × prazo · avaliação própria das medidas E1–E8, M1–M6 e S1–S4
+Matriz impacto × prazo · avaliação própria das medidas E1–E8, M1–M7 e S1–S4
 :::
 
 Nenhuma medida é rápida e de grande impacto ao mesmo tempo. Daqui resulta a ordem de execução:
 
 1. **Em 2027, em simultâneo:** aplicar o imposto sobre vazios com a saída para proprietários (E1–E2), criar a garantia pública de renda (E5), publicar o inventário de devolutos do Estado (E3) e montar os sistemas de dados (S4). São baratas e mostram resultados antes de 2030.
-2. **Também em 2027, para dar fruto em 2029–2031:** rever PDM e regulamentos para densificar junto a transportes (M2) e fixar prazos vinculativos de licenciamento (M1). Cada ano de atraso aqui é um ano a menos de construção em 2030.
+2. **Também em 2027, para dar fruto em 2029–2031:** rever PDM e regulamentos para densificar junto a transportes (M2), fixar prazos vinculativos de licenciamento (M1) e lançar os primeiros concursos de terreno público a preço fixo (M7). Cada ano de atraso aqui é um ano a menos de construção em 2030.
 3. **Antes do fim do PRR:** desenhar o modelo financeiro do parque público de rendas de custo (S1), para que a capacidade criada nas câmaras e no IHRU não se perca quando os fundos europeus acabarem.
 4. **Com tempo e consenso:** a reforma IMT→IMI (S2), que exige transição lenta e acordo entre partidos para sobreviver a mudanças de governo.
 
