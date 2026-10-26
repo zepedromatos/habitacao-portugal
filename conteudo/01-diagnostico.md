@@ -140,7 +140,18 @@ O núcleo do problema é aritmético: entre 2011 e 2024 o número de agregados c
 
 **1. Crescimento populacional por imigração.** A população residente subiu 824.914 pessoas entre 2021 e 2025, para 11,42 milhões. A população estrangeira passou de 748 mil para 1,6 milhões (14%); o saldo natural é negativo ([INE via Barlavento](https://www.barlavento.pt/?p=402650)). Mais de metade dos estrangeiros vive na Grande Lisboa e no Norte. O crescimento abrandou muito em 2025 (+2,7% de residentes estrangeiros, contra +18,3% em 2024) ([DN / AIMA](https://www.dn.pt/sociedade/ritmo-de-crescimento-dos-imigrantes-no-pas-recua-82)).
 
-- *Leitura:* é o maior choque de procura do período, e o BdP identifica-o como causa principal. Mas imigrantes laborais tendem a viver em agregados maiores e em arrendamento; o efeito no preço de compra é indireto. O abrandamento de 2025 ainda não se viu nos preços.
+*Rendimentos.* Não há uma distribuição publicada por escalões, mas os dados disponíveis convergem. Em 2023, o salário bruto mediano dos trabalhadores estrangeiros por conta de outrem era 769 € abaixo dos 35 anos e 781 € acima, contra 902 € e 945 € nos portugueses, com o salário mínimo a 760 € ([Banco de Portugal](https://www.bportugal.pt/sites/default/files/documents/2024-07/Apresentacao_Forum_Economia_27jun2024.pdf)). Em 2022, 38,0% dos trabalhadores estrangeiros recebiam o salário mínimo, contra 22,8% do total ([Félix e Martins, BdP, via idealista](https://www.idealista.pt/news/node/68674)).
+
+| Rendimento líquido por adulto equivalente, 18–64 anos (rendimentos de 2024) | Mediana | Abaixo da linha de pobreza |
+| --- | --- | --- |
+| Portugueses | 15.333 € | 13,3% |
+| Estrangeiros (todos) | 11.758 € | 22,9% |
+| Estrangeiros de fora da UE | 11.273 € | 24,4% |
+| Estrangeiros da UE | 17.515 € | 12,4% |
+
+Fonte: Eurostat, EU-SILC 2025 ([ilc_di15](https://ec.europa.eu/eurostat/databrowser/view/ilc_di15/default/table), [ilc_li31](https://ec.europa.eu/eurostat/databrowser/view/ilc_li31/default/table)). As amostras de estrangeiros são pequenas e os valores oscilam de ano para ano; o inquérito tende a não captar recém-chegados em quartos ou casas sobrelotadas, pelo que os rendimentos dos imigrantes recentes serão provavelmente mais baixos.
+
+- *Leitura:* é o maior choque de procura do período, e o BdP identifica-o como causa principal. Mas a maioria dos imigrantes laborais ganha perto do salário mínimo e vive em agregados maiores e em arrendamento: pressiona sobretudo o arrendamento barato e os quartos, e quase nada a compra. Com ~780 € brutos, a renda mediana de 70 m² (~712 €) é incomportável para uma pessoa só, o que explica a sobrelotação e o subarrendamento. O efeito no preço de compra é indireto. O abrandamento de 2025 ainda não se viu nos preços.
 
 **2. Agregados mais pequenos.** Envelhecimento, menos uniões e menos filhos reduzem o tamanho médio do agregado. Mais de 1 milhão de pessoas vivia sozinha em 2021 (+18% numa década), cerca de 25% dos agregados. Mesmo com população estável, são precisas mais casas.
 
@@ -227,7 +238,7 @@ Nas duas maiores cidades, uma casa mediana a preço mediano só é acessível à
 | --- | --- |
 | Jovens | Taxa de propriedade aos 25–34 anos: 70% (geração 1967–76) → 60% → 40% (gerações seguintes) ([BdP](https://www.bportugal.pt/sites/default/files/forum_economia_habitacao_portugal.pdf)). Saída de casa dos pais aos 28,9 anos vs 26,2 na UE (2024) ([Eurostat via ECO](https://eco.sapo.pt/2025/09/23/jovens-portugueses-so-saem-de-casa-dos-pais-quase-aos-29-anos-eurostat-culpa-custo-da-habitacao/)). |
 | Inquilinos a preço de mercado | Cerca de 3 em cada 10 inquilinos gastam mais de 40% do rendimento em renda; eram 17,8% em 2010 (dados 2022) ([idealista / Eurostat](https://www.idealista.pt/news/node/58531)). |
-| Imigrantes recentes | Chegam sem património e sem historial de crédito, entram pelo arrendamento ou subarrendamento de quartos; maior risco de sobrelotação. |
+| Imigrantes recentes | Chegam sem património e sem historial de crédito, com salários medianos perto do mínimo (~780 € brutos em 2023); entram pelo arrendamento ou subarrendamento de quartos; maior risco de sobrelotação. Um em cada quatro estrangeiros de fora da UE vive abaixo da linha de pobreza. |
 | Rendimentos baixos e médios-baixos | Sem habitação pública significativa (~2% do parque), dependem do mercado privado. |
 | Trabalhadores com mobilidade forçada | Professores, médicos, polícias e outros colocados em Lisboa ou no Algarve pagam rendas de mercado com salários nacionais. |
 | Famílias monoparentais e pessoas sozinhas | Um só rendimento contra rendas e prestações calibradas por casais. |
