@@ -51,7 +51,7 @@
       "pesoTexto": "Alto",
       "onde": "Arrendamento, periferias",
       "confianca": "Alta",
-      "texto": "A população cresceu 825 mil pessoas entre 2021 e 2025. O crescimento abrandou muito em 2025."
+      "texto": "A população cresceu 825 mil pessoas entre 2021 e 2025. O trabalhador estrangeiro mediano ganha perto do salário mínimo: pressiona sobretudo o arrendamento barato e os quartos, não a compra."
     },
     {
       "fator": "Custos de construção e licenciamento",
@@ -142,6 +142,10 @@
     {
       "n": "2,24%",
       "texto": "aumento máximo das rendas em contratos já existentes em 2026; nos novos contratos, ~9–10%"
+    },
+    {
+      "n": "151 mil",
+      "texto": "contratos de renda antiga (anteriores a 1990); 79% pagam menos de 200 € por mês"
     }
   ],
   "expostos": [
@@ -160,6 +164,10 @@
     {
       "n": "1.245 €",
       "texto": "renda mediana de 70 m² em Lisboa, acima do salário mediano bruto (1.191 €)"
+    },
+    {
+      "n": "~780 €",
+      "texto": "salário bruto mediano dos trabalhadores estrangeiros em 2023 (portugueses: 902–945 €); em 2022, 38% recebiam o salário mínimo"
     }
   ],
   "vazios": [

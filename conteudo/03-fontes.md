@@ -120,3 +120,7 @@
 - [Contratos de Investimento para Arrendamento, DL 97/2026 (idealista)](https://www.idealista.pt/news/node/75800)
 - [Viena — concursos de promotores (socialhousing.wien)](https://socialhousing.wien/tools/developers-competitions)
 - [Bento, Lowe, Knaap & Chakraborty 2009 — quotas de habitação acessível na Califórnia (Cityscape)](https://www.huduser.gov/periodicals/cityscpe/vol11num2/ch1.pdf)
+- [Banco de Portugal — trabalhadores estrangeiros por conta de outrem, Fórum de Economia 2024](https://www.bportugal.pt/sites/default/files/documents/2024-07/Apresentacao_Forum_Economia_27jun2024.pdf)
+- [Félix e Martins (BdP) — trabalhadores com salário mínimo (idealista)](https://www.idealista.pt/news/node/68674)
+- [Eurostat — rendimento por nacionalidade (ilc_di15)](https://ec.europa.eu/eurostat/databrowser/view/ilc_di15/default/table)
+- [Eurostat — taxa de pobreza por nacionalidade (ilc_li31)](https://ec.europa.eu/eurostat/databrowser/view/ilc_li31/default/table)
