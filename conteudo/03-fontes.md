@@ -124,3 +124,6 @@
 - [Félix e Martins (BdP) — trabalhadores com salário mínimo (idealista)](https://www.idealista.pt/news/node/68674)
 - [Eurostat — rendimento por nacionalidade (ilc_di15)](https://ec.europa.eu/eurostat/databrowser/view/ilc_di15/default/table)
 - [Eurostat — taxa de pobreza por nacionalidade (ilc_li31)](https://ec.europa.eu/eurostat/databrowser/view/ilc_li31/default/table)
+- [Eurostat — sobrecarga com custos de habitação por idade (ilc_lvho07a)](https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho07a/default/table)
+- [Eurostat — rendimento mediano por idade (ilc_di03)](https://ec.europa.eu/eurostat/databrowser/view/ilc_di03/default/table)
+- [Eurostat — IHPC, índice anual (prc_hicp_aind)](https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_aind/default/table)
