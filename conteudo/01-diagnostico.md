@@ -270,6 +270,30 @@ A maioria dos portugueses está escudada da crise e, em muitos casos, beneficia 
 
 **A consequência: um mercado de insiders e outsiders.** Quem está dentro tem um custo muito abaixo do mercado e não se muda, porque mudar significa pagar o preço atual. Isto reduz a mobilidade, mantém casas grandes subocupadas e concentra todo o ajustamento de preços em quem entra: jovens, recém-chegados e quem tem de se mudar.
 
+### Um fosso geracional?
+
+A divisão entre quem já tem casa e quem procura agora coincide em grande parte com a idade. Dois indicadores do Eurostat confirmam o fosso; outros números que circulam não se confirmam com estes dados.
+
+| Pessoas em agregados que gastam mais de 40% do rendimento disponível em habitação | 2024 | 2025 |
+| --- | --- | --- |
+| 20–29 anos | 8,5% | 7,4% |
+| 65 ou mais anos | 4,1% | 3,2% |
+| Rácio | 2,1× | 2,3× |
+
+Fonte: Eurostat, [ilc_lvho07a](https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho07a/default/table). As despesas incluem renda, juros do crédito, condomínio e serviços (água, luz, gás), mas não a amortização do empréstimo.
+
+| Variação real do rendimento mediano por adulto equivalente, rendimentos de 2008 a 2024 | Portugal | Espanha |
+| --- | --- | --- |
+| 65 ou mais anos | +40% | +22% |
+| 18–24 anos | +29% | 0% |
+| 25–49 anos | +34% | −2% |
+| Total | +33% | +3% |
+
+Cálculo próprio: Eurostat, [ilc_di03](https://ec.europa.eu/eurostat/databrowser/view/ilc_di03/default/table) (inquéritos de 2009 e 2025, que medem os rendimentos do ano anterior), deflacionado pelo IHPC de cada país ([prc_hicp_aind](https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_aind/default/table)).
+
+- *Ressalvas:* (1) os dois indicadores usam o rendimento do agregado. Como os jovens saem de casa dos pais aos 28,9 anos, muitos dos 20–29 vivem com os pais e aparecem com o rendimento e as despesas deles; os indicadores subestimam a situação de quem já saiu. (2) Pela mesma razão, uma medida do rendimento individual ou do trabalho dos jovens mostraria provavelmente um crescimento menor do que o da tabela, mas não há uma série oficial comparável; números como "+5% para os jovens" ou "−15% em Espanha" não se confirmam com estes dados. (3) Em nível, os 65+ continuam abaixo dos 18–64 anos (13.378 € contra 15.067 € de mediana em 2025): o fosso fechou-se, não se inverteu, e os 75+ continuam entre os grupos mais pobres.
+- *Leitura:* há um fosso geracional real, sustentado pelas atualizações das pensões e pela propriedade quase universal da casa entre os mais velhos (perto de 80% dos agregados com representante de 65+ anos são proprietários, quase sem crédito). Mas a família amortece-o: pais que alojam filhos até perto dos 30, ajudam na entrada da casa e deixam heranças. O fosso mais duro talvez seja dentro da mesma geração, entre jovens com família proprietária e jovens sem ela, incluindo os imigrantes. A crise transfere o custo para quem não tem património, e a idade é o melhor indicador isolado de quem não o tem.
+
 ## Quem detém o parque habitacional
 
 O parque habitacional português é esmagadoramente detido por particulares: das 4,14 milhões de casas de residência habitual, 70% são do próprio morador e, das restantes, 89% pertencem a particulares, empresas privadas ou familiares do inquilino. Autarquias, Estado central e instituições sem fins lucrativos detêm 3,0% das residências habituais, e as cooperativas 0,4% ([INE, O Parque Habitacional 2011–2021](https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=665568526&att_display=n&att_download=y)).

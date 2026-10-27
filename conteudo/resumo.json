@@ -359,5 +359,26 @@
       "titulo": "Arrendamento coercivo",
       "texto": "Criado em 2023, revogado em 2024. Um imposto sobre vazios dá o mesmo incentivo sem expropriar o uso."
     }
-  ]
+  ],
+  "geracional": {
+    "titulo": "Um fosso geracional?",
+    "texto": "Sim, com nuances. Os números confirmados pelo Eurostat:",
+    "numeros": [
+      {
+        "n": "2,3×",
+        "texto": "jovens de 20–29 anos em agregados que gastam mais de 40% do rendimento em habitação, face aos de 65+ (7,4% contra 3,2%, 2025)"
+      },
+      {
+        "n": "+40% / +29%",
+        "texto": "subida real do rendimento mediano dos 65+ e dos 18–24 anos entre 2008 e 2024 (Espanha: +22% e 0%)"
+      }
+    ],
+    "ressalvas": [
+      "Os indicadores usam o rendimento do agregado: os jovens que ainda vivem com os pais aparecem com o rendimento deles, o que esconde a situação de quem já saiu.",
+      "Números que circulam, como \"+5% para os jovens\" ou \"−15% em Espanha\", não se confirmam com estes dados.",
+      "Em nível, os 65+ ainda ganham menos do que os 18–64 anos: o fosso fechou-se, não se inverteu.",
+      "O fosso também existe dentro de cada geração: entre jovens com e sem família proprietária."
+    ],
+    "ancora": "um-fosso-geracional"
+  }
 }

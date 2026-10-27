@@ -57,7 +57,10 @@ export function renderOverview(d, { anchors, captions }) {
   // Quem paga
   const col = (cls, title, sub, items) => `<div class="qp ${cls}"><h3>${title}</h3><p class="qp-sub">${sub}</p><ul>${items.map((x) => `<li><span class="qp-n">${esc(x.n)}</span><span class="qp-t">${esc(x.texto)}</span></li>`).join('')}</ul></div>`;
   out.push(section('quem-paga', '', 'Quem está dentro e quem está fora', 'Um mercado partido em dois', null,
-    `<div class="qp-grid">${col('qp-in', 'Protegidos', 'Já tinham casa antes da subida', d.protegidos)}${col('qp-out', 'Expostos', 'Entram agora no mercado', d.expostos)}</div>`));
+    `<div class="qp-grid">${col('qp-in', 'Protegidos', 'Já tinham casa antes da subida', d.protegidos)}${col('qp-out', 'Expostos', 'Entram agora no mercado', d.expostos)}</div>`
+    + (d.geracional ? (() => { const g = d.geracional; return `<div class="ger"><div class="ger-main"><h3>${esc(g.titulo)}</h3><p>${esc(g.texto)}</p>
+      <ul class="ger-n">${g.numeros.map((x) => `<li><span class="qp-n">${esc(x.n)}</span><span class="qp-t">${esc(x.texto)}</span></li>`).join('')}</ul></div>
+      <div class="ger-res"><h4>Ressalvas</h4><ul>${g.ressalvas.map((r) => `<li>${esc(r)}</li>`).join('')}</ul><a href="#${g.ancora}">Ler no relatório</a></div></div>`; })() : '')));
 
   // Casas vazias
   const max = d.vazios[0].n;
